@@ -1,4 +1,4 @@
-# Sales Data Warehouse & ETL Pipeline
+# Sales Data Warehouse & Automated ETL Pipeline
 
 ## 📌 Project Overview
 

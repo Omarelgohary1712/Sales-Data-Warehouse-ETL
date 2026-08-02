@@ -105,9 +105,14 @@ The Gold Layer contains:
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Overview](images/Customer_Behavior_dashboard.png)
-
 ![Dashboard Overview](images/Sales_Dashboard.png)
+
+
+
+
+
+
+![Dashboard Overview](images/Customer_Behavior_dashboard.png)
 
 The dashboard provides insights about:
 

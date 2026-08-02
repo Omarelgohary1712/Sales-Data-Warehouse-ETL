@@ -10,7 +10,7 @@ The pipeline extracts raw sales data, transforms it through Bronze, Silver, and 
 
 ## 🏗️ Data Warehouse Architecture
 
-![Architecture](images/Medallion Architecture 2.png)
+![Architecture](images/Medallion_Architecture_.png)
 
 The project follows the Medallion Architecture:
 
@@ -89,7 +89,7 @@ Retail-Sales-Data-Warehouse/
 
 ## ⭐ Data Model (Star Schema)
 
-![Star Schema](images/star_schema.png)
+![Star Schema](images/Star_Schema.png)
 
 The Gold Layer contains:
 
@@ -105,7 +105,8 @@ The Gold Layer contains:
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Customer_Behavior_dashboard.png)
+![Dashboard Overview](images/Sales_dashboard.png)
 
 The dashboard provides insights about:
 
